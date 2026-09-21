@@ -2,16 +2,16 @@
 
 ## 1. Identificação
 
-Kaylane da silva mariano
-Programação em C
- Profa. Karla Sartin
-Sistema Inteligente de Monitoramento Industrial
+ Kaylane da silva mariano 
+ Programação em C  
+Profa. Karla Sartin  
+ Sistema Inteligente de Monitoramento Industrial
 
-
+## 2. Objetivo
 
 O objetivo do programa é monitorar temperaturas de um sistema industrial, verificando se os valores ultrapassam um limite definido pelo usuário. O programa calcula a média, a maior e a menor temperatura e encerra o monitoramento quando são registradas três temperaturas consecutivas acima do limite.
 
-
+## 3. Funcionamento do programa
 
 O usuário informa um limite de temperatura, que é validado pelo programa.
 
